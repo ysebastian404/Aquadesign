@@ -1,0 +1,5 @@
+Instrucciones froma de ejecución y compilación del proyecto
+Tener instalado Xampp y agregar la carpeta aquadesign a la carpeta htdocs.
+Abrir los archivos php. con Visual Studio, modificar el archivo db_connection.php, con los valores de su computadora, root, username, etc.
+Abrir en el navegador el siguiente enlace http://localhost/aquadesign/celan.php, para la eliminacion de tablas, modificando la ruta por values.php, values2.php, valuesError.php
+Visualización de la base de datos en http://localhost/dashboard/ y asu vez seleccionar la opcion phpMyAdmin
